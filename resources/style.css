@@ -1,10 +1,11 @@
-html, body {
+html,
+body {
     font-family: Verdana, sans-serif;
     background-color: black;
     color: white;
     text-align: center;
-    
 }
+
 h1 {
     font-size: 50px;
     font-weight: normal;
@@ -31,5 +32,4 @@ a {
 
 div {
     margin: 20px 0;
-
 }
